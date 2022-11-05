@@ -1,4 +1,7 @@
 # ChooseForMe
+
+THIS IS A PYTHON APP, YOU WILL NEED PANDAS AND PYSIMPLEGUI TO RUN VIA TERMINAL
+
 Get a randomized recommendation for a new show!
 
 !!Currently this will choose for a DataBase containing all the current Anime Shows by Description and name!!
